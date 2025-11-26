@@ -8,8 +8,12 @@
 */
 
 // Add your code right below, good luck!
+firstName = 'Carlos'
+lastName = 'Stevenson'
+thisYear = 1965
+birthYear = 1947
 
-
+const greeting = "Hello! My name is " + firstName + " " + lastName + " and I am " + (thisYear - birthYear) + " years old.";
 
 
 
